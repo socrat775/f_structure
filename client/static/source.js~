@@ -90,7 +90,6 @@ function Directory() {
        el.setAttribute('id', 'new_element');
        el.appendChild(document.createTextNode(el.value));
        el.appendChild(document.createTextNode("dir"));
-       //el.setAttribute('onclick', 'handler.callback(this)');
        document.getElementById("element").appendChild(el);
 
        var copy = []
