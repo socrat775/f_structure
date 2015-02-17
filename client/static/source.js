@@ -105,30 +105,3 @@ function Directory() {
     }
 }
 
-////////////////////////////////////
-var oldtext = {};
-
-function TextSplit() {
-    var newtext = document.getElementById("textarea").value.split(".");
-    var buffer = {};
-
-    top:
-    for (var key in newtext) {
-        if (Object.keys(oldtext).length > Object.keys(newtext).length) {
-           for (var key in oldtext) {
-               if (newtext[key] == undefined)//!!!
-                  { buffer[key] = "UNDEFINED"; delete oldtext[key]; }
-               if (oldtext[key] != newtext[key])
-                  { buffer[key] = newtext[key];
-                    oldtext[key] = newtext[key]; }
-           }
-        break top;
-        }
-        if (newtext[key] != oldtext[key]) {
-           buffer[key] = newtext[key];
-           oldtext[key] = newtext[key];
-        }
-    }
-    return socket.send(JSON.stringify(buffer));
-}
-
