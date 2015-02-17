@@ -1,0 +1,23 @@
+#barside {
+  position:fixed;
+  top:0; left:0; right:0;
+  margin:auto;
+  width:600px; height:50px; background:#3f0fff;
+}
+#elementofpath {
+  float:left; margin:5px;
+  width:60px; height:18px; background:#ff0ff0;
+  text-align:center;
+}
+
+#work_space {
+  position:static;
+  margin:0 auto;
+  width:700px; height:500px; background:#f00f0f;
+  margin-top:80px;
+}
+#new_element {
+  float:left; margin:20px;
+  width:100px; height:50px; background:#ff0ff0;
+  text-align: center;
+}

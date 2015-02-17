@@ -1,0 +1,987 @@
+su
+cd /home/socrat/Документы
+ls
+cd Tornado
+ls
+mkdir Tornado
+ls
+cd Tornado
+ls
+nano main.hmtl
+ls
+nano writer.py
+ls
+tar xvzf tornado-3.2.1.tar.gz
+ls
+cd tornado-3.2.1
+ls
+su
+python setup.py build
+ls
+su
+ls
+cd ..
+ls
+python 
+ls
+su
+cd /etc/X11
+ls
+cd app-defaults
+ls
+cd ..
+su
+ls
+lol
+Xorg -configure
+python
+cd /etc/X11
+ls
+nano rgb.txt
+cd X
+nano X
+nano Xsession.d
+nano Xsession
+nano Xsession.options
+nano Xsession
+Xorg -probeonly
+Xorg -configure
+Xorg :1 -configure
+su
+exit
+su
+startx
+sensors
+c /root
+cd /root
+su
+sensors
+cd /usr/share
+ls
+cd X11
+ls
+cd xorg.conf.d
+ls
+cd ..
+cd
+su
+ls /root
+nano /etc/X11/xorg.conf
+lspci
+sensors
+cd /etc/X11
+ls
+nano xorg.conf
+Xorg :1 -configure
+acpi
+sensors
+ls
+cd Tornado
+ls
+nano writer.py
+Xorg -conf
+xorg -conf
+Xorg -conf
+Xorg -config
+Xorg -configure
+su
+Xorg :0 -configure
+Xorg :1 -configure
+Xorg :2 -configure
+Xorg :2 -conf
+Xorg :0 -conf
+Xorg : -configure
+Xorg 0: -configure
+Xorg :1 -configure
+su
+gtf 1280 1024 75
+ls
+nano source.js
+su
+ls
+rm main hmtl
+rm main.hmtl
+ls
+nano style.css
+ls
+cd Tornado
+ls
+mkdir
+mkdir javascript
+cd javascript
+ls
+cp /home/socrat/Tornado/main.html ./
+pwd
+ls
+nano main.html
+su
+python
+cd javscript
+cd javascript
+ls
+nano main.html
+pwd
+cd ..
+ls
+cd client
+pwd
+ls
+nano source.js
+ls
+nano source.js
+cd ..
+cd client
+ls
+nano main.html
+ls
+nano style.css
+cd ..
+ls
+nano writer.py
+nano main.html
+nano main.hmtl
+rm main.hmtl
+ls
+nano writer.py
+rm writer.py
+ls
+cd javascript
+ls
+cd ..
+ls
+mv javascript client
+ls
+mkdir server
+cd server
+server.py
+nano server.py
+ls
+nano server.py
+su
+ls
+cd ..
+ls
+cd server
+ls
+nano server.py
+ls
+cd Tornado
+ls
+cd client
+ls
+nano main.html
+nano source.js
+ls
+python server.py
+python
+cd Tornado
+ls
+cd client
+ls
+nano source.js
+pwd
+ls
+nano source.js
+ls
+nano main.html
+ls
+python server.py
+ls
+python server.py
+cd Tornado
+ls
+cd client
+ls
+cd ..
+ls
+cd WeboSocket
+cd WebSocket
+ls
+cd ..
+ls
+cd server
+ls
+nano server.py
+ls
+cd ..
+ls
+cd WebSocket
+ls
+cd ..
+ls
+rm -r WeboSockegt
+rm -r WeboSocket
+rm -r WebSocket
+ls
+cd server
+ls
+nano server.py
+cd server
+nano server.py
+cd server
+python server.py
+sensors
+su
+cd Tornado
+ls
+cd client
+nano source.js
+su
+thor
+tsung
+ls
+cd Загрузки
+ls
+tsung
+cd ..
+mkdir tsung
+nano tsung.xml
+ls
+cp ./tsung.xml tsung
+ls
+rm ./tsung.xml 
+ls
+cd tsung
+ls
+tsung -f /home/socrat/tsung/tsung.xml
+tsung f /home/socrat/tsung/tsung.xml
+search tsung
+search tsung.xml
+cd /etc
+cd tsung
+cd ..
+ls
+cd /ust
+cd /usr
+ls
+cd ..
+cd /home/socrat/tsung
+nano tsung.xml
+tsung start
+cd Diploma
+ls
+cd client
+nano source.js
+siege
+su
+siege
+cd /var/log
+ls
+ls
+cd Tornado
+ls
+cd Asynchronous
+ls
+nano Simple.py
+ls
+python Simple.py
+nano Simple.py
+python Simple.py
+nano Simple.py
+python Simple.py
+nano Simple.py
+python Simple.py
+nano Simple.py
+python Simple.py
+nano Simple.py
+siege http://localhost:8888/ -c10 -t60
+siege http://localhost:8888/ -c10 -t60s
+siege http://localhost:8888/ -c10 -t60s -file=log
+siege http://localhost:8888/ -c10 -t60s
+ls
+nano log
+ls
+nano log
+ls
+python
+nano lol
+cd diploma
+ls
+cd ..
+ls
+cd Diploma
+ls
+cd  server
+ls
+nano server.py
+ls
+cd Tornado
+ls
+nano server/Server.py
+nano server/server.py
+cd ..
+ls
+cd Diplo,a
+cd Diploma
+ls
+cd client
+ls
+nano source.js
+sensors
+acpi
+sensors
+acpi
+cd Diploma
+ls
+cd server
+ls
+nano server.py
+python server.py
+sensors
+ls
+python server.py
+sensors
+python server.py
+ls
+cd Tornado
+ls
+cd server
+nano server.py
+cd ..
+ls
+cd Diploma
+ls
+cd server
+nano server.py
+ls
+nano file
+nano server.py
+nano file
+cd ..
+cd client
+nano source.js
+senosrs
+sensors
+python
+su
+sensors
+ls
+mkdir Tornado
+cd Tornado
+cd client
+ls
+nano source.js
+cd ..
+cd server
+,s
+ls
+nano server.py
+python server.py
+python
+ls
+cd Tornado
+ls
+cd server
+ls
+nano server.py
+cd ..
+cd Tornado
+ls
+nano server.py
+ls
+python client.py
+python client.py
+cd Tornado
+ls
+nano server.py
+python
+ls
+nano client.py
+cd /usr/lib
+ls
+cd python .7
+cd python2.7
+ls
+nano socket.py
+cd 
+cd Tornado
+ls
+python server.py
+nano /etc/apt/sources.list
+steam
+aptitude
+su
+sensors
+ls
+ls
+cd Tornado
+ls
+nano server.py
+ld
+ls
+cd server
+ls
+nano server.py
+python server.py
+ls
+cd ..
+ls
+cd client
+ls
+nano source.js
+ls
+nano main.html
+cd ..
+cd server
+ls
+python server.py
+python
+ls
+cd Tornado
+ls
+cd client
+ls
+nano source.js
+cd ..
+cd server
+ls
+nano server.py
+cd ..
+ls
+cd servet
+cd server
+ls
+python server.py
+cd .
+ls
+cd ..
+ls
+cd client
+ls
+nano source.js
+ls
+cd Tornado
+ls
+cd server
+ls
+nano server.py
+ls
+python
+cd ..
+cd server
+ls
+python server.py
+ls
+cd client
+ls
+nano source.js
+ls
+cd Tornado
+cd server
+ls
+nano server.py
+ls
+nano IterClass.py
+ls
+cd Tornado
+ls
+nano client.py
+rm client.py server.py
+ls
+cd server
+ls
+nano server.py
+cd client
+ls
+nano source.js
+ls
+python server.py
+sensors
+clear
+sensors
+clear
+python server.py
+sensorst
+sensors
+python server.py
+cd ..
+ls
+cd client
+ls
+cd ..
+cd setrver
+cd server
+ls
+python server.py
+su
+cd client
+ls
+nano source.js
+python server.py
+ls
+cd ..
+cd client
+ls
+nano main.html
+cd Tornado
+ls
+cd server
+nano server.py
+python
+ls
+cd Tornado
+ls
+cd server
+ls
+nano server.py
+cd xclient
+cd client
+ls
+nano source.js
+nano style.css
+nano main.html
+nano source.js
+nano main.html
+nano style.css
+nano source.js
+cd server
+ls
+python server.py start()
+python server.py start
+python server.py
+ls
+python server.py
+ls
+python server.py
+cd /usr/
+cd local
+cd lib
+ls
+cd python2.6
+ls
+cd dist-packages
+ls
+cd ..
+cd site-packages
+ls
+cd ..
+ls
+cd ..
+ls
+cd lib
+cd local
+ls
+cd ..
+cd usr
+ls
+cd bin
+ls
+cd local
+cd ..
+ls
+python
+cd ..
+cd /usr/local/lib/python2.7/dist-packages
+ls
+cd tornado
+ls
+nano websocket.py
+clear
+acpe
+acpi
+ls
+cd path
+cd ..
+cd Django
+ls
+cd 
+ls
+python
+cd Tornado/server
+ls
+rmdir kokokoko
+ls
+rmdir kokokoko
+ls
+python
+ls
+rmdir ONE qwert SEcond
+ls
+cd ..
+cd client
+ls
+nano main.html
+ls
+nano style.css
+nano main.html
+ls
+cd server
+python server.py
+ls
+cd ..
+ls
+cd server
+python server.py
+ls
+cd kokokoko
+ls
+cd ..
+rm kokokoko
+rmdir kokokoko
+ls
+python server.py
+ls
+rmdir kokokoko
+python server.py
+ls
+rmdir er erf
+ls
+cd client
+nano source.js
+ls
+nano source.js
+cd Tornado
+ls
+cd server
+nano server.py
+cd Tornado/client
+cd Tornado
+ls
+cd server
+nano server.py
+cd Tornado
+cd client
+ls
+nano source.js
+cd Tornado
+cd server
+ls
+python server,py
+python server.py
+cd
+python
+sensors
+cd usr/lib
+cd /usr/lib
+ls
+cd python2.7
+ls
+nano json.py
+cd json
+ls
+nano decoder.py
+nano __init__.py
+cd Tornado
+ls
+cd server
+nano server.py
+cd Tornado/client
+ls
+nano source.js
+python server.py 
+cd ..
+cd client
+ls
+nano main.html
+cd ..
+cd server
+ls
+python server.py
+ls
+rm hello server
+rm hello_server
+rm wrf 54321 1223 12134
+rmdir wrf 54321 1223 12134
+ls
+rmdiw hello server
+rmdir hello server
+rmdir 2wr
+rmdir 3wr
+cd Tornado
+cd client
+ls
+nano source.js
+ls
+nano main.html
+nano style.css
+nano main.html
+nano source.js
+nano style.css
+nano source.js
+nano main.html
+cd Tornado
+cd server
+ls
+python server.py
+fdisk
+python server.py
+cd Tornado
+cd server
+ls
+nano server.py
+ls
+nano server.py
+ls
+rmdir 111 123
+ls
+nano server.py
+ls
+nano server.py
+cd client
+ls
+cd Tornado
+cd client
+ls
+nano main.html
+nano style.css
+nano main.html
+cd ..
+cd server.py
+cd server
+nano server.py
+nano source.js
+cd ..
+cd server
+python server.py
+cd ..
+cd client
+nano source.js
+ls
+nano IterClass.py
+cd Tornado
+ls
+cd server
+ls
+rmdir 111 123 321 dfgbkn ergerfg
+ls
+nano server.py
+cd Tornado
+sensors
+ls
+cd server
+ls
+nano server.py
+cd client
+ls
+nano source.js
+cd server
+python
+python
+cd /usr/local/lib/python2.7/dist-packages
+ls
+cd tornado
+ls
+sensors
+nano web.py
+cd /usr/local
+ls
+cd lib
+ls
+cd python2.7
+ls
+cd sitepackages
+cd site-packages
+ls
+cd ..
+cd dist-packages
+ls
+cd tornado
+ls
+nano web.py
+acpi
+ls
+cd Tornado
+ls
+cd server
+ls
+nano server.py
+cd client
+ls
+nano source.js
+ls
+cd server
+ls
+python server.py
+htop
+top
+python server.py
+PYTHON
+python
+python server.py
+ls
+cd client
+ls
+nano source.js
+ls
+cd server
+ls
+python server.py
+ls
+cd Tornado
+cd server
+ls
+nano server.py
+cd Tornado
+cd server
+ls
+nano server.py
+cd client
+ls
+nano main.html
+ls
+nano source.js
+cd client
+nano source.js
+ls
+nano main.html
+cd ..
+cd server
+ls
+python server.py
+cd Tornado
+ls
+cd server
+ls
+nano server.py
+cd client
+ls
+nano source.js
+ls
+cd server
+python server.py
+cd Tornado
+cd server
+ls
+nano server.pt
+nano server.py
+cd client
+ls
+nano source.js
+ls
+cd server
+python server.py
+ls
+python server.py
+cd server
+cd ..
+cd client
+ls
+nano source.ks
+nano source.js
+nano main.html
+cd ..
+cd server
+ls
+nano hello.html
+cd client
+cd Tornado
+cd server
+ls
+nano server.py
+cd Tornado
+ls
+nano server.py
+cd server
+nano server.py
+cd client
+nano source.js
+cd server
+ls
+python server.py
+cd Tornado
+cd server
+python server.py
+ls
+nano main.html
+cd client
+ls
+nano source.js
+cd Tornado/client
+ls
+nano source.js
+cd Tornado
+cd server
+ls
+nano server.py
+cd server
+python server.py
+cd client
+ls
+nano source.js
+nano main.html
+cd ..
+cd server
+ls
+nano hello.html
+rm hello.html
+ls
+nano login.html
+pwd
+ls
+cd ..
+cd client
+ls
+nano source.js
+ls
+nano main.html
+ls
+nano web.html
+nano main.html
+nano web.html
+nano source.js
+nano web.html
+nano source.js
+nano web.html
+nano style.css
+nano web.html
+ls
+nano web.html
+cd Tornado
+cd server
+nano server.py
+ls
+nano server.py
+cd server
+python server.py
+ls
+cd client
+ls
+python
+cd Tornado
+cd server
+nano server,py
+nano server.py
+cd Tornado
+cd server
+nano server.py
+cd Tornado/server
+ls
+python server.py
+cd Tornado/client
+ls
+cd template
+ls
+nano main.html
+ls
+cd ..
+ls
+pwd
+cd template
+pwd
+cd ..
+cd static
+pwd
+ls
+nano source.js
+ls
+cd ..
+cd template
+ls
+nano main.html
+cd ..
+ls
+cd ..
+ls
+mkdir clientspace
+ls
+cd Tornado/server
+nano server.py
+aplay -l
+cd ..
+l
+las
+ls
+cdclientspace
+cd clientspace
+ls
+pwd
