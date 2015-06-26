@@ -3,7 +3,7 @@ var list_functions = [Directory];
 
 socket.onopen = function() {
     alert("connect!");
-    window.handler = new Directory(); //global handler, becerfull!
+    window.handler = new Directory(); //global handler, becerfull!1
 }
 
 socket.onmessage = function(event) {
